@@ -1,0 +1,5 @@
+numpy
+pandas
+pytest
+sklearn
+git+https://github.com/MaxBenChrist/mlpy-plus-dtw # you have to install the other packages before!
